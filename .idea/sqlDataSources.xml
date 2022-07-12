@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c9ace95c-2ec4-4094-af95-e56a05b4d65a" name="ziynat_web@localhost Mapping">
+      <data-sources db="8bb1612c-311f-43ce-8a79-7e8b63289901" ddl="0463730a-2210-470d-a71a-1db2ddb4d958" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="0463730a-2210-470d-a71a-1db2ddb4d958" />
+          <option name="name" value="ziynat_web@localhost (DDL)" />
+          <option name="languageId" value="MySQL" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

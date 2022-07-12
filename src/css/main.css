@@ -1,0 +1,55 @@
+
+
+@font-face {
+    font-family: "HelveticaNeueCyr";
+    src: url("../font/helveticaneuecyr-medium.ttf") format("ttf"),
+    url("../font/helveticaneuecyr-medium.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    font-family: HelveticaNeueCyr, sans-serif;
+    font-weight: 600;
+}
+
+#navbarSupportedContent > ul > li > a {
+    font-size: 16px;
+    color: #3C3C4A;
+}
+
+#navbarSupportedContent > ul > li > a:hover {
+    font-size: 16px;
+    color: #9A121F;
+}
+
+.btn-my-danger {
+    background-color: #9A121F;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 110px;
+    padding: 10px 35px 10px 35px;
+    margin-left: 53px;
+    margin-right: 60px;
+}
+
+.btn-my-danger:hover {
+    background-color: #f14141;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 110px;
+    padding: 10px 35px 10px 35px;
+    margin-left: 53px;
+    margin-right: 60px;
+    transition: 0.5s ease-out;
+}
+
+.header {
+    background-image: url("../images/bg-header.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 970px;
+}
+
